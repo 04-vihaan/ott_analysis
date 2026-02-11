@@ -115,7 +115,6 @@ The following preprocessing steps were performed:
 - Dual-axis charts (Subscribers vs Release Volume)
 - ARPU growth trend analysis
 - Correlation heatmaps
-
 ---
 
 ## Limitations
@@ -135,21 +134,3 @@ The following preprocessing steps were performed:
 - Cohort retention analysis
 - Interactive dashboard deployment (Streamlit or Power BI)
 
----
-
-## Skills Demonstrated
-
-- Data Cleaning and Feature Engineering
-- Multi-Dataset Integration
-- Time Series Aggregation
-- Correlation and Growth Analysis
-- Business Insight Extraction
-- Data Visualization
-
----
-
-## Author
-
-Vihaan Singh  
-BTech – IIT Indore  
-Aspiring Data Analyst
